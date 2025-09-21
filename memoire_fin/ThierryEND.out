@@ -1,0 +1,75 @@
+\BOOKMARK [0][-]{section*.1}{D\351dicace}{}% 1
+\BOOKMARK [0][-]{section*.4}{Remerciements}{}% 2
+\BOOKMARK [0][-]{section*.6}{Avant-propos}{}% 3
+\BOOKMARK [0][-]{section*.9}{Pr\351sentation de la structure d\220accueil}{}% 4
+\BOOKMARK [0][-]{chapter*.25}{LISTE DES ABR\311VIATIONS}{}% 5
+\BOOKMARK [0][-]{chapter*.26}{R\311SUM\311}{}% 6
+\BOOKMARK [0][-]{chapter*.28}{ABSTRACT}{}% 7
+\BOOKMARK [0][-]{chapter*.30}{INTRODUCTION}{}% 8
+\BOOKMARK [1][-]{section.0.1}{Contexte g\351n\351ral et Objectifs}{chapter*.30}% 9
+\BOOKMARK [2][-]{subsection.0.1.1}{Contexte g\351n\351ral}{section.0.1}% 10
+\BOOKMARK [2][-]{subsection.0.1.2}{Objectif g\351n\351ral}{section.0.1}% 11
+\BOOKMARK [2][-]{subsection.0.1.3}{Objectifs Sp\351cifiques}{section.0.1}% 12
+\BOOKMARK [0][-]{chapter.1}{\311TAT DE L'ART }{}% 13
+\BOOKMARK [1][-]{section.1.1}{Le contexte portuaire et ses enjeux environnementaux}{chapter.1}% 14
+\BOOKMARK [2][-]{subsection.1.1.1}{ Contexte portuaire }{section.1.1}% 15
+\BOOKMARK [2][-]{subsection.1.1.2}{Enjeux environnementaux }{section.1.1}% 16
+\BOOKMARK [1][-]{section.1.2}{Donn\351es m\351t\351orologiques et mar\351graphiques }{chapter.1}% 17
+\BOOKMARK [2][-]{subsection.1.2.1}{ Types de donn\351es m\351t\351orologiques }{section.1.2}% 18
+\BOOKMARK [2][-]{subsection.1.2.2}{Types de donn\351es mar\351graphiques}{section.1.2}% 19
+\BOOKMARK [2][-]{subsection.1.2.3}{Importance des donn\351es m\351t\351orologiques et mar\351graphiques}{section.1.2}% 20
+\BOOKMARK [1][-]{section.1.3}{Intelligence Artificielle et Machine Learning}{chapter.1}% 21
+\BOOKMARK [2][-]{subsection.1.3.1}{ D\351finitions }{section.1.3}% 22
+\BOOKMARK [2][-]{subsection.1.3.2}{\311volution de l\220intelligence artificielle}{section.1.3}% 23
+\BOOKMARK [2][-]{subsection.1.3.3}{Le machine learning appliqu\351 aux s\351ries temporelles environnementales}{section.1.3}% 24
+\BOOKMARK [2][-]{subsection.1.3.4}{Mod\350le CNN 1D}{section.1.3}% 25
+\BOOKMARK [2][-]{subsection.1.3.5}{Mod\350le BiLSTM}{section.1.3}% 26
+\BOOKMARK [2][-]{subsection.1.3.6}{ Mod\350le LSTM}{section.1.3}% 27
+\BOOKMARK [1][-]{section.1.4}{Pr\351vision mar\351graphique et m\351t\351orologique}{chapter.1}% 28
+\BOOKMARK [2][-]{subsection.1.4.1}{Pr\351vision des niveaux d\220eau}{section.1.4}% 29
+\BOOKMARK [2][-]{subsection.1.4.2}{Pr\351vision des mar\351es}{section.1.4}% 30
+\BOOKMARK [2][-]{subsection.1.4.3}{Pr\351vision m\351t\351orologique locale}{section.1.4}% 31
+\BOOKMARK [2][-]{subsection.1.4.4}{Gestion des anomalies et des \351v\351nements extr\352mes}{section.1.4}% 32
+\BOOKMARK [1][-]{section.1.5}{Donn\351es ouvertes et valorisation open data}{chapter.1}% 33
+\BOOKMARK [2][-]{subsection.1.5.1}{La notion d\220open data et son impact scientifique}{section.1.5}% 34
+\BOOKMARK [2][-]{subsection.1.5.2}{Importance pour la pr\351vision environnementale locale}{section.1.5}% 35
+\BOOKMARK [2][-]{subsection.1.5.3}{Valorisation scientifique et \351conomique des donn\351es ouvertes}{section.1.5}% 36
+\BOOKMARK [2][-]{subsection.1.5.4}{Enjeux \351thiques, techniques et de souverainet\351}{section.1.5}% 37
+\BOOKMARK [0][-]{chapter.2}{MATERIELS ET METHODES}{}% 38
+\BOOKMARK [1][-]{section.2.1}{Zone d\220\351tude}{chapter.2}% 39
+\BOOKMARK [2][-]{subsection.2.1.1}{Repr\351sentation de la zone d\220\351tude}{section.2.1}% 40
+\BOOKMARK [2][-]{subsection.2.1.2}{R\364le du port dans les conditions m\351t\351orologiques de Douala}{section.2.1}% 41
+\BOOKMARK [2][-]{subsection.2.1.3}{R\364le du port dans les conditions m\351t\351orologiques nationales}{section.2.1}% 42
+\BOOKMARK [1][-]{section.2.2}{Pr\351sentation des \351quipements m\351t\351orologiques et mar\351ographiques du PAD}{chapter.2}% 43
+\BOOKMARK [2][-]{subsection.2.2.1}{\311quipements m\351t\351orologiques}{section.2.2}% 44
+\BOOKMARK [2][-]{subsection.2.2.2}{Presentation , fonctionnement et syst\350me d\220acquisition de donn\351es des stations du PAD}{section.2.2}% 45
+\BOOKMARK [1][-]{section.2.3}{Syst\350me de gestion et de visualisation des donn\351es}{chapter.2}% 46
+\BOOKMARK [2][-]{subsection.2.3.1}{Collecte des donn\351es}{section.2.3}% 47
+\BOOKMARK [2][-]{subsection.2.3.2}{Plateforme de stockage}{section.2.3}% 48
+\BOOKMARK [2][-]{subsection.2.3.3}{Visualisation des donn\351es}{section.2.3}% 49
+\BOOKMARK [2][-]{subsection.2.3.4}{Pr\351sentation des variables utilis\351es}{section.2.3}% 50
+\BOOKMARK [1][-]{section.2.4}{Mod\351lisation pr\351dictive des donn\351es}{chapter.2}% 51
+\BOOKMARK [2][-]{subsection.2.4.1}{Filtrage des donn\351es}{section.2.4}% 52
+\BOOKMARK [2][-]{subsection.2.4.2}{Pr\351traitement des donn\351es}{section.2.4}% 53
+\BOOKMARK [2][-]{subsection.2.4.3}{Validation du modele}{section.2.4}% 54
+\BOOKMARK [2][-]{subsection.2.4.4}{M\351triques d'\351valuation des mod\350les de r\351gression}{section.2.4}% 55
+\BOOKMARK [1][-]{section.2.5}{D\351veloppement du site de visualisation}{chapter.2}% 56
+\BOOKMARK [2][-]{subsection.2.5.1}{Plateforme de visualisation des donn\351es et pr\351visions en temps r\351el}{section.2.5}% 57
+\BOOKMARK [0][-]{chapter.3}{R\311SULTATS ET DISCUSSION}{}% 58
+\BOOKMARK [1][-]{section.3.1}{Mod\351lisation avec LSTM}{chapter.3}% 59
+\BOOKMARK [2][-]{subsection.3.1.1}{Entra\356nement du mod\350le pr\351dictif}{section.3.1}% 60
+\BOOKMARK [2][-]{subsection.3.1.2}{R\351sultats de la pr\351diction avec LSTM}{section.3.1}% 61
+\BOOKMARK [2][-]{subsection.3.1.3}{Analyse des R\351sultats }{section.3.1}% 62
+\BOOKMARK [1][-]{section.3.2}{Validation du mod\350le LSMT }{chapter.3}% 63
+\BOOKMARK [2][-]{subsection.3.2.1}{Justification m\351thodologique de la comparaison}{section.3.2}% 64
+\BOOKMARK [2][-]{subsection.3.2.2}{Analyse des performances comparatives}{section.3.2}% 65
+\BOOKMARK [2][-]{subsection.3.2.3}{Choix justifi\351 du mod\350le LSTM}{section.3.2}% 66
+\BOOKMARK [2][-]{subsection.3.2.4}{Analyse des performances}{section.3.2}% 67
+\BOOKMARK [1][-]{section.3.3}{R\351sultats de la pr\351vision m\351t\351oroogique des conditions m\351t\351orologique au PAD}{chapter.3}% 68
+\BOOKMARK [2][-]{subsection.3.3.1}{Conception de l\220interface web de visualisation}{section.3.3}% 69
+\BOOKMARK [1][-]{section.3.4}{Int\351gration et d\351ploiement}{chapter.3}% 70
+\BOOKMARK [2][-]{subsection.3.4.1}{D\351ploiement des donn\351es }{section.3.4}% 71
+\BOOKMARK [2][-]{subsection.3.4.2}{D\351ploiement des sites web }{section.3.4}% 72
+\BOOKMARK [1][-]{section.3.5}{Perspectives d\220\351volution}{chapter.3}% 73
+\BOOKMARK [1][-]{section.3.6}{Application}{chapter.3}% 74
+\BOOKMARK [0][-]{chapter*.37}{CONCLUSION G\311N\311RALE ET PERSPECTIVES}{}% 75
